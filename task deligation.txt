@@ -1,65 +1,37 @@
 
-To ensure a smooth and effective workflow for analyzing the top 200 movies of 2023, here’s a suggested breakdown of tasks among the 5 team members, balancing workload, ensuring clear roles, and encouraging collaboration and communication on GitHub:
+To ensure a smooth and effective workflow for analyzing the top 200 movies of 2023, here’s a suggested breakdown of tasks among all the 5 team members, balancing workload, ensuring clear roles, and encouraging collaboration and communication on this interface;
 
-### *1. Data Collection & Preprocessing*
-   - *Assigned to: Team Member A* AZEEZ OMOTAYO
-   - *Responsibilities*:
+1. Data Collection & Preprocessing
+   - Assigned to: Team Member - **AZEEZ OMOTAYO**
+   - Responsibilities:
      - Gather and clean the dataset (if not already clean).
      - Remove any duplicates, check for missing values, and standardize formats (e.g., release dates, revenue).
      - Collaborate with the data analysis lead to define the variables and metrics needed.
-   - *GitHub Role*: 
-     - Regularly push updates of the cleaned dataset to GitHub.
-     - Document cleaning and preprocessing steps clearly in a Markdown file so other team members understand any changes.
-   - *Output*: Clean, ready-to-use dataset and preprocessing documentation.
-
-### *2. Descriptive & Exploratory Data Analysis (EDA)*
-   - *Assigned to: Team Member B* KHAIRAT TIJANI
-   - *Responsibilities*:
+   
+2. Descriptive & Exploratory Data Analysis (EDA)
+   - Assigned to: Team Member - **KHAIRAT TIJANI**
+   - Responsibilities:
      - Perform initial analysis to understand distributions, trends, and general statistics (e.g., average gross revenue, distribution across different genres or distributors).
      - Visualize key statistics with plots (e.g., revenue vs. theaters, distribution of release dates).
      - Highlight findings that may be valuable for deeper analysis.
-   - *GitHub Role*:
-     - Push Jupyter notebooks or Python scripts with EDA code.
-     - Create visualizations and summaries of findings, saving them in a Visualizations folder for easy access.
-   - *Output*: EDA report with summary statistics, visualizations, and key observations.
-
-### *3. Statistical Analysis & Correlation Testing*
-   - *Assigned to: Team Member C* TAOFEEK SEKONI
-   - *Responsibilities*:
+   
+3. Statistical Analysis & Correlation Testing
+   - Assigned to: Team Member - **TAOFEEK SEKONI**
+   - Responsibilities:
      - Design and perform correlation analysis on key variables (e.g., total gross vs. theater count, release date effect on gross).
      - Test hypotheses, such as the impact of release date timing or distributor on revenue.
      - Interpret results and determine any statistically significant insights.
-   - *GitHub Role*:
-     - Share all statistical analysis code and findings.
-     - Document test methods, results, and interpretation in a Markdown file for transparency.
-   - *Output*: Statistical analysis report with methods, findings, and interpretations.
 
-### *4. Report Writing & Interpretation of Results*
-   - *Assigned to: Team Member D* LAOKE BUSOLA
-   - *Responsibilities*:
+4. Report Writing & Interpretation of Results
+   - Assigned to: Team Member - **LAOKE BUSOLA**
+   - Responsibilities:
      - Synthesize findings from EDA, statistical analysis, and any significant patterns or trends.
      - Write the main sections of the report: introduction, methodology, results, discussion, and conclusion.
      - Collaborate with other members to ensure technical accuracy and cohesion.
-   - *GitHub Role*:
-     - Draft and refine the report in GitHub, using Markdown for easy collaboration and edits.
-     - Track changes with pull requests, inviting feedback from other team members.
-   - *Output*: Final research report.
 
-### *5. Presentation Development*
-   - *Assigned to: Team Member E* OLASENI OLADIPO
-   - *Responsibilities*:
+5. Presentation Development
+   - Assigned to: Team Member - **OLASENI OLADIPO**
+   - *Responsibilities:
      - Create the slides for the presentation, summarizing key findings, methods, and visualizations.
      - Focus on clear visuals, charts, and concise points to communicate insights effectively.
      - Coordinate with all team members to ensure each member has a speaking role and understands their content.
-   - *GitHub Role*:
-     - Use GitHub to share presentation drafts and collect feedback.
-     - Push presentation files (e.g., PPT, PDF) and ensure the final version is accessible to all.
-   - *Output*: Polished presentation with well-distributed speaking parts.
-
-### *Communication & Collaboration on GitHub*
-   - *Create a GitHub repository* with clear structure, including folders like Data, Analysis, Reports, Presentation, and Visualizations.
-   - *Weekly check-ins*: Set up a weekly issue on GitHub for each team member to summarize progress and blockers.
-   - *Branching and Pull Requests*: Each member creates their branch for specific tasks (e.g., data-cleaning, eda, statistical-analysis, etc.). Use pull requests to review and discuss changes before merging to the main branch.
-   - *Documentation*: Ensure each member documents their process in the README or a relevant Markdown file, so future edits and references are clear.
-
-By organizing tasks this way, each team member has ownership over a specific part of the project, and GitHub ensures a streamlined workflow with transparency and accountability across all team members.
