@@ -1,0 +1,5 @@
+I will be handling data cleaning and preprocessing
+Responsibilities:
+ - Gather and clean the dataset (if not already clean).
+ - Remove any duplicates, check for missing values, and standardize formats (e.g., release dates, revenue).
+ - Collaborate with the data analysis lead to define the variables and metrics needed.
