@@ -1,0 +1,20 @@
+DATASET ID - DS039 - Top 200 Movies of 2023 Dataset
+
+This dataset is interesting to us because (by using this data we can  analyze the relationship between the number of theaters in which a movie is shown and its total gross revenue. This helps us understand if movies released in more theaters generally perform better at the box office.):
+ 
+Our  Independent variable is: (Number of Theaters)
+                   This  Independent variable datatype is : Interval.
+Our Dependent variable is: (Total Gross Revenue)
+                   This Dependent variable datatype is : Interval
+
+The Research Question is "**Is there a correlation between the number of theaters and total gross revenue for the top 200 movies?**"
+
+1. Correlation (Analysis of how the interval dependent variable Total Gross Revenue correlates to the interval independent variable Number of Theaters)“
+2. Comparison of Means (or Medians): Analysis of the difference between the mean (or median) value of total gross revenue across different theater counts or distributions.
+3. Comparison of Proportions: Analysis of the difference in proportions of gross revenue generated across various theater groupings or categories
+
+HYPOTHESIS
+1. Null hypothesis (Ho): There is no correlation between the number of theaters and total gross revenue for the top 200 movies?".
+
+2.  Alternative hypothesis (H1); Alternative hypothesis (H1): There is a correlation between the number of theaters and total gross revenue for the top 200 movies?".
+
