@@ -1,0 +1,8 @@
+Hello guys! This is the task i was delegated. i will post updates and step by step procedure on the analysis to carry everyone along and please feel free to make suggestions. Thank you.
+
+Descriptive & Exploratory Data Analysis (EDA)
+   - Assigned to: Team Member - **KHAIRAT TIJANI**
+   - Responsibilities:
+     - Perform initial analysis to understand distributions, trends, and general statistics (e.g., average gross revenue, distribution across different genres or distributors).
+     - Visualize key statistics with plots (e.g., revenue vs. theaters, distribution of release dates).
+     - Highlight findings that may be valuable for deeper analysis.
