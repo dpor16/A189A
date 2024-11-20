@@ -1,5 +1,24 @@
-I will be handling data cleaning and preprocessing
+I will be handling data cleaning and preprocessing.
+
 Responsibilities:
- - Gather and clean the dataset (if not already clean).
- - Remove any duplicates, check for missing values, and standardize formats (e.g., release dates, revenue).
- - Collaborate with the data analysis lead to define the variables and metrics needed.
+- Gather and clean the dataset (if not already clean).
+- Remove any duplicates, check for missing values, and standardize formats (e.g., release dates, revenue).
+- Collaborate with the data analysis lead to define the variables and metrics needed.
+
+
+SUMMARY OF DATA COLLECTION AND PREPROCESSING
+Using rstudio, we cleaned and processed the data using the following processes so we could perform statistical analysis on the data.
+1. Data Loading:  
+   - We Started by reading the cleaned CSV file containing the top 200 movies in 2023 using the read_csv function and displayed the first few rows using head(df) to inspect the data.
+
+2. Data Cleaning:
+   - *Theaters Column*: We cleaned the "Theaters" column by removing commas using gsub(",", "", df$Theaters) and then converted the values to numeric format using as.numeric().
+   - *Total Gross Column*: For the "Total Gross" column, we removed both the dollar sign ($) and commas using `gsub("[\\$,]", "", df$Total Gross) and then converted the cleaned values into numeric format.
+
+3. Handling Missing Data:
+   - We checked for missing values in both the "Theaters" and "Total Gross" columns using the sum(is.na()) function to count any NA (missing) values.
+   - After confirming that there were missing values, we used na.omit(df) to remove any rows containing missing data.
+
+This process ensures that the data is properly formatted and ready for further analysis, such as descriptive statistics and correlation analysis.
+
+
