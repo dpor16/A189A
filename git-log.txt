@@ -1,0 +1,267 @@
+commit 13c1d95648ab17c265ef662a9100c26a4eeabc0e
+Merge: 859976b 2a49098
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Fri Nov 22 14:35:25 2024 +0000
+
+    df
+
+commit 859976b548fa1f4df1ea1ac2ca99fd53ce2a2ddc
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Fri Nov 22 14:31:09 2024 +0000
+
+    df
+
+commit 2a490988af75d2b7c90f0adec062907bfdc1982a
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 22 14:01:26 2024 +0000
+
+    Update RScript A189.R
+
+commit 6e1f5bb0e9b5c2d0d8457f779b8ab671eefc0caa
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 22 13:53:45 2024 +0000
+
+    Update Descriptive & Exploratory Data Analysis.txt
+
+commit f0e7bd3ecd5b8b81cc50e70a6d7317f26b6814ea
+Merge: 3b9f7f6 b2b2653
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Thu Nov 21 08:35:06 2024 +0000
+
+    student details
+
+commit 3b9f7f6df5d9f0e65aea471b024fe0d1e9ecc54b
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Thu Nov 21 08:18:17 2024 +0000
+
+    troublehoot
+
+commit b2b2653d699f0ca61e19d533afcbc9c024383066
+Merge: a56e9e2 420c82b
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 22:35:55 2024 +0000
+
+    data collection & preprocessing
+
+commit a56e9e2569f118e57b13b6e5b50877cd97c40309
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 22:33:21 2024 +0000
+
+    data collection & preprocessing
+
+commit 420c82bf719a2d6b672993f7dbd1d53ccc5b8a44
+Author: dpor16 <oo23afx@herts.ac.uk>
+Date:   Wed Nov 20 20:20:24 2024 +0000
+
+    Update student details.txt
+
+commit 0d586108abc3d71c0fe6d0a49363d97bf7364d4b
+Merge: 38ac580 48e85b3
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 14:46:00 2024 +0000
+
+    RScript A189
+
+commit 38ac580becc726d18dcaf9d41719256fe2fb1f24
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 14:39:47 2024 +0000
+
+    rscript a189
+
+commit ba3ae651019ec33edf2296c2c2baf9faf3fd09f4
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 14:33:19 2024 +0000
+
+    RScript A189.R
+
+commit 4e60d44013285e1d81c6ffa8ddbe73d57c8a8a35
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 14:21:27 2024 +0000
+
+    Data cleaning and preprocessing
+
+commit 48e85b37a323f7750e3f7b430b0c14d8e50cfae4
+Author: feekieboy <ts23acx@herts.ac.uk>
+Date:   Wed Nov 20 14:06:38 2024 +0000
+
+    student details
+
+commit deed5d37433b8676ff26abe1a1e82bcbbe387868
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Wed Nov 20 13:35:15 2024 +0000
+
+    Delete Second commit
+
+commit 7cebe205d1888b259669a6b48fac81c853f1cf95
+Author: ol24-gl <ol23aam@herts.ac.uk>
+Date:   Wed Nov 20 12:47:10 2024 +0000
+
+    Update student details.txt
+
+commit a70fc9653d69cf275cbc162dd6b1b9eca1ed008c
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Wed Nov 20 12:40:19 2024 +0000
+
+    student details
+
+commit 2a1fa8477dc86aa40229c76ca3b56129854c4da1
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Wed Nov 20 12:06:38 2024 +0000
+
+    Update student details.txt
+
+commit 9e201af4a02aef8eb8dcfa47b0097c65137b9dad
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Wed Nov 20 12:04:56 2024 +0000
+
+    Update student details.txt
+
+commit 03ff62ec00090791d0261c8973c0ec6ef1a4e10c
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Wed Nov 20 11:35:25 2024 +0000
+
+    student details
+
+commit bf008ce4a1a7d24813481ccc11c0f3f4fe25097e
+Author: feekieboy <ts23acx@herts.ac.uk>
+Date:   Sun Nov 17 18:27:37 2024 +0000
+
+    correlation analysis
+
+commit 0130f9adabb3e6ebbd6827440ede57752cba750f
+Author: Khairat Tijani <kt23abt@herts.ac.uk>
+Date:   Sat Nov 16 14:27:56 2024 +0000
+
+    Descriptive & Exploratory Data Analysis
+
+commit faee4e064b814b9138472750a42e80a3ba903b52
+Author: Khairat Tijani <kt23abt@herts.ac.uk>
+Date:   Sat Nov 16 14:19:13 2024 +0000
+
+    Descriptive & Exploratory Data Analysis
+
+commit e77bcf6f4dabbfe40bfe8952aa813642b60cc69b
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Sat Nov 16 13:24:19 2024 +0000
+
+    announcement
+
+commit b4684c8b3efd85289d1fccee977038855a1c6235
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Sat Nov 16 13:18:07 2024 +0000
+
+    A189 RESEARCH QUESTION PRESENTATION (1)
+
+commit 8b3301dd989a635363b5d1cec4a084309443d2cf
+Author: unknown <ol23aam@herts.ac.uk>
+Date:   Fri Nov 15 18:42:36 2024 +0000
+
+    report writing
+
+commit 7709f4946b5d9c55ac31030a34a0f2ddd235b4b2
+Merge: 4811acc d251007
+Author: feekieboy <ts23acx@herts.ac.uk>
+Date:   Fri Nov 15 18:24:53 2024 +0000
+
+    correlation analysis
+
+commit 4811acc23bc41846b4aa64d1db4b13eb4d93c4ed
+Author: feekieboy <ts23acx@herts.ac.uk>
+Date:   Fri Nov 15 18:22:36 2024 +0000
+
+    correlation analysis
+
+commit d2510079ac0732dcb6b93fabcf6536f03810ce26
+Merge: 60a844a 732d51c
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Fri Nov 15 18:00:50 2024 +0000
+
+    Data Collection & Preprocessing
+
+commit 60a844af4aac00523dc52468024d351a4b59b819
+Author: ao23aeq <ao23aeq@herts.ac.uk>
+Date:   Fri Nov 15 17:57:48 2024 +0000
+
+    Data Collection & Preprocessing
+
+commit 732d51c031a329ddd07c553e4a30f91ced741b70
+Author: Khairat Tijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 15 17:41:51 2024 +0000
+
+    Research Questions
+
+commit 05bb0cb76ed70cb6a853ec8ee7a2af89675e6f8e
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 15 16:54:54 2024 +0000
+
+    Delete new task.txt
+
+commit 65947c55ce3c7a200d1418cf8b810acd84c605b9
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 15 16:54:19 2024 +0000
+
+    Update task deligation.txt
+
+commit ca27ea65fadd91aed78ca55b7f12cadfb10bec8e
+Merge: e205e6b 43bba94
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Fri Nov 15 16:47:41 2024 +0000
+
+    new task
+
+commit e205e6be4a0c9625b9d6427687d0903b7a2ac91d
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Fri Nov 15 16:40:41 2024 +0000
+
+    new task
+
+commit bedb8f915b1d297dd2339b2feec8812bf5128e88
+Author: oladipo olaseni <oo23afx@herts.ac.uk>
+Date:   Fri Nov 15 16:32:14 2024 +0000
+
+    task deligation
+
+commit 43bba941023eaab4df82fd07a1f108268f5d3724
+Merge: 5efa77d be1aa99
+Author: Azeez Omotayo <ao23aeq@herts.ac.uk>
+Date:   Fri Nov 15 16:22:35 2024 +0000
+
+    Merge pull request #1 from dpor16/ao23aeq-patch-1
+    
+    Update README.md
+
+commit be1aa99d025415475bf382cdf91e3f11b20965ec
+Author: Azeez Omotayo <ao23aeq@herts.ac.uk>
+Date:   Fri Nov 15 16:21:29 2024 +0000
+
+    Update README.md
+
+commit 5efa77d86e127328236933b045c94fd44f783f9e
+Author: Azeez Omotayo <ao23aeq@herts.ac.uk>
+Date:   Sat Nov 2 01:44:14 2024 +0000
+
+    Create Second commit
+
+commit 85af325759b7cb730943a61e9adbeedbdcbbb5f0
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 1 18:48:35 2024 +0000
+
+    Delete brain_networks.csv
+
+commit f6e98ab617746a32bb74ab58e77bb2af53463cde
+Author: KhairatTijani <kt23abt@herts.ac.uk>
+Date:   Fri Nov 1 18:47:02 2024 +0000
+
+    Add files via upload
+
+commit f3c1816247e9ea109cf9b129ecdc7f0f01163ec5
+Author: dpor16 <oo23afx@herts.ac.uk>
+Date:   Fri Nov 1 15:23:06 2024 +0000
+
+    Add files via upload
+
+commit d5caef691b8bea71a31e40d6e15efa3392bca534
+Author: dpor16 <oo23afx@herts.ac.uk>
+Date:   Fri Nov 1 15:21:34 2024 +0000
+
+    Initial commit
