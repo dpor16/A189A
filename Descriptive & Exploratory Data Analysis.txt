@@ -7,5 +7,45 @@ Descriptive & Exploratory Data Analysis (EDA)
      - Visualize key statistics with plots (e.g., revenue vs. theaters, distribution of release dates).
      - Highlight findings that may be valuable for deeper analysis.
 
+SUMMARY OF DESCRIPTIVE AND EXPLORATORY ANALYSIS
+ 1. Descriptive Statistics
+   - Number of Theaters:
+     - Minimum: 7
+     - 1st Quartile: 402.2
+     - Median: 1,043
+     - Mean: 1,673.7
+     - 3rd Quartile: 3,185.5
+     - Maximum: 4,600
+     - Standard Deviation: 1,467.4
+     
+   - Total Gross ($):
+     - Minimum: $181,537
+     - 1st Quartile: $9,122,107
+     - Median: $22,572,675
+     - Mean: $62,996,570
+     - 3rd Quartile: $72,588,475
+     - Maximum: $718,814,950
+     - Standard Deviation: $99,065,048
+     
+2. Exploratory Visualizations
+    Histograms:
+   - Theaters: 
+     - The histogram shows a right-skewed distribution. The red density curve highlights this skewness, while the green normal curve (based on mean and standard deviation) confirms deviation from normality. 
+     - A higher frequency of movies is shown in theaters below 2,000, with relatively fewer movies in 3,000+ theaters.
+   - Total Gross:
+     - The histogram of total gross exhibits a highly right-skewed distribution. Most movies earned below $100 million, with only a few crossing that threshold. 
+     - The density curve (red) indicates a heavy tail, diverging significantly from the green normal curve overlay.
 
-+12672660695
+   Boxplots:
+   - Theaters:
+     - The boxplot shows a relatively uniform spread of values, with no extreme outliers detected. Most movies are in a range of around 400 to 4,600 theaters.
+   - Total Gross:
+     - The boxplot reveals the presence of extreme outliers, indicating a few movies with exceptionally high earnings.
+
+3. Key Insights:
+   - Distributions:
+     - Both variables exhibit non-normal distributions, with Total Gross being more heavily skewed than Theaters.
+     - The bell-curve overlays emphasize deviations from normality, suggesting that statistical techniques accounting for skewness (e.g., transformations) might be necessary for further analysis.
+   - Outliers:
+     - Total Gross shows clear outliers in the data, as seen in the boxplot, which should be investigated further for their potential influence on statistical models.
+
