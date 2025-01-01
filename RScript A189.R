@@ -55,3 +55,21 @@ curve(dnorm(x, mean = mean(df$`Total Gross`), sd = sd(df$`Total Gross`)),
 # Boxplots to detect outliers
 boxplot(df$Theaters, main = "Boxplot of Theaters", ylab = "Number of Theaters", col = "lightgreen")
 boxplot(df$`Total Gross`, main = "Boxplot of Total Gross", ylab = "Total Gross ($)", col = "lightcoral")
+
+
+Statistical Analysis & Correlation Testing
+# Step 1: Correlation Coefficient
+correlation <- cor(df$Theaters, df$Total Gross, method = "pearson")
+print(paste("Correlation Coefficient: ", correlation))
+
+# Step 2: Hypothesis Testing for Correlation
+cor.test(df$Theaters, df$Total Gross)
+
+# Step 3: Scatterplot with Regression Line
+plot(df$Theaters, df$Total Gross, 
+     main = "Scatterplot of Theaters vs. Total Gross", 
+     xlab = "Number of Theaters", ylab = "Total Gross ($)", 
+     col = "blue", pch = 19)
+
+# Add regression line
+abline(lm(df$Total Gross ~ df$Theaters), col = "red", lwd = 2)
