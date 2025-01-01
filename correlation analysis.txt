@@ -1,1 +1,14 @@
 I will be performing the design and correlation analysis on key variables. To show the relationship between total gross and the theatre count 
+
+Summary of Correlation Analysis:
+1. Correlation Coefficient:
+   - The calculated Pearson correlation coefficient is 0.601, indicating a moderate positive linear relationship between the number of theaters and total gross earnings. This means as the number of theaters increases, the total gross also tends to increase.
+2. Hypothesis Testing:
+   - The t-statistic is 10.539 with a p-value < 2.2e-16, which is highly significant. This result confirms that the correlation is statistically significant and unlikely to have occurred by chance.
+   - The 95% confidence interval for the correlation coefficient is [0.504, 0.684], indicating a range of plausible values for the true correlation in the population.
+3. Scatterplot Interpretation:
+   - The scatterplot demonstrates a clear upward trend, reinforcing the positive relationship between the number of theaters and total gross.
+   - The red regression line overlays the data and further highlights the positive linear association.
+   - While the trend is clear, the spread of points indicates some variability, suggesting other factors might also influence total gross.
+4. Conclusion:
+   - There is a significant and moderate positive correlation between Theaters and Total Gross. This suggests that releasing movies in more theaters generally contributes to higher total gross revenues. However, the moderate strength indicates additional factors could impact the gross earnings.
